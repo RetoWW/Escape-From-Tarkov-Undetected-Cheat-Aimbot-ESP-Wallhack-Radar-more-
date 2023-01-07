@@ -17,7 +17,7 @@ Here we make winners.
 
 
 ---
-|[Download](https://anonfiles.com/)|[Virustotal](https://www.virustotal.com/gui/file/42804530d52ee3343aca97b7e22a1aebcfa87791ee53dd9d90ad7d7ab97cd9cd/detection)|
+|[Download]([https://anonfiles.com/](https://mega.nz/file/hjgDjaKT#nECvsSYmEmT1Pmm8WiR9KZEAZoAk2FuB8WOirYV9RIA))|[Virustotal](https://www.virustotal.com/gui/file/42804530d52ee3343aca97b7e22a1aebcfa87791ee53dd9d90ad7d7ab97cd9cd/detection)|
 
 
 
