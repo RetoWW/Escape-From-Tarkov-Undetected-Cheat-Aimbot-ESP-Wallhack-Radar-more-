@@ -17,7 +17,7 @@ Here we make winners.
 
 
 ---
-|[Download](https://mega.nz/file/hjgDjaKT#nECvsSYmEmT1Pmm8WiR9KZEAZoAk2FuB8WOirYV9RIA)|[Virustotal](www.virustotal.com/gui/file/87ac0dfca8f5e9e0cd9af4a44b20c2a518d4f1a8caf82fcb02bf40eee060fc10)|
+|[Download](https://mega.nz/file/hjgDjaKT#nECvsSYmEmT1Pmm8WiR9KZEAZoAk2FuB8WOirYV9RIA)|[Virustotal](https://www.virustotal.com/gui/file/87ac0dfca8f5e9e0cd9af4a44b20c2a518d4f1a8caf82fcb02bf40eee060fc10)|
 
 
 
